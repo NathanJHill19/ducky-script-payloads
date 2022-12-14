@@ -1,0 +1,11 @@
+REM Use this fun payload to mess with your friends or family! Tested and works for Windows 11 and 10
+REM Disclaimer: DO NOT hack anyone without their permission!
+
+DELAY 1000
+GUI r
+DELAY 500
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
+DELAY 1000
+f
+
