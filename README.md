@@ -1,2 +1,2 @@
 # DuckyScript 3.0 Payloads
-Here is where I will share all of my payloads for DuckyScript 3.0
+Here is where I will share all of my projects for DuckyScript 3.0
